@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elden Griggs</title>
+    <link>https://emgriggs.github.io/</link>
+    <description>Recent content on Elden Griggs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 17:51:47 +0330</lastBuildDate><atom:link href="https://emgriggs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://emgriggs.github.io/projects/</link>
+      <pubDate>Tue, 20 Oct 2020 17:51:47 +0330</pubDate>
+      
+      <guid>https://emgriggs.github.io/projects/</guid>
+      <description>content/projects/index.md</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://emgriggs.github.io/publications/</link>
+      <pubDate>Tue, 20 Oct 2020 17:51:47 +0330</pubDate>
+      
+      <guid>https://emgriggs.github.io/publications/</guid>
+      <description>helllo content/publications/index.md</description>
+    </item>
+    
+  </channel>
+</rss>
